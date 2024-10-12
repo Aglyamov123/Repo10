@@ -1,0 +1,26 @@
+{
+  "name": "Sue Ellis",
+  "age": 24,
+  "address": {
+    "street": "Maewi Plaza",
+    "city": "Noweze",
+    "state": "LA",
+    "zip": "14361"
+  },
+  "contact": {
+    "phone": "(467) 340-1035",
+    "servicePhone": "800362629"
+  },
+  "birthday": "1959-10-18T01:56:03.604Z",
+  "ip": "93.216.21.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Ebeulojur nuec fej dufnomik futisdiz po apjo tin bifogal posireki wuni wabkom ko ab vi. Sopud jivdobsu woci wa bazilki saehva suarobu uhjuuru bahitetu raco wahgudah zem ho kuf zojpahvug. Bamuc diveaj bouh map abpito ok joc hu tul wowempu dodlo cugiaja rucu. Loguhop rub zapukap pol weppip haofdil ba kewpekza mun jirrotej odfaop nittoh ji vo atugerbuk faajaloz donjoes. Kidji pite meg utivuwow ulrivtej mimhowul jutkuwef mor sofuda nezi aj eziozo bupvo ridle.",
+    "bio": "Mor cihgi li ropem laad kosbe munumtu disugiig sicze jag subkuw ruluavu gonek gori cuser so. Ve aghivul fumhi wuntigoh egobi fegonup lev ca fo mobrozpo tew ur. Jovuc cojaz efofufaw lojwik degkopat pakdan ko cokiod rotvuvir wulota facril ofdo re me. Ijvuw feruv guc pim kowcit is vugzaku azu nuwive rucagodu ji ivle racoggap vupbuno hodpu. Con kivam do ujfezdum eru fu ofa hevwutoto von rug setu ci et."
+  },
+  "apiKey": "0ac949f19c21d75047ac949e31621c2fec93f39d808443e2f829785b0c7c189f",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
