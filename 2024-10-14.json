@@ -1,0 +1,26 @@
+{
+  "name": "Norman Sanchez",
+  "age": 20,
+  "address": {
+    "street": "Huru Drive",
+    "city": "Anzato",
+    "state": "IL",
+    "zip": "75226"
+  },
+  "contact": {
+    "phone": "(748) 334-7419",
+    "servicePhone": "800829758"
+  },
+  "birthday": "1967-02-15T03:22:28.276Z",
+  "ip": "5.125.170.68",
+  "foo": "bar",
+  "profile": {
+    "about": "Vepuc luwogum se cokablol us icu igase og vem gamenni gota okodaup co upi efe pahimto lago. Ivhupno lo ne fo po awi hobun uwawun ow ran nenbuhar fopid. Lisbuthe ve ki eviba sewe kunbeh avoruj towhese doho ti azdecjet depco ate divsiv. Nebvagne cocsafe jel ideto se vemif nunta ihaes fu vaha evohijuk iwiugmab vewtus. Hidmetcev mokrisi fa du nuh gujmicjo zef pi kudmeafu kafare licec iw cok.",
+    "bio": "Lu pofivec hihniwi havehin lolrut hijkojiw pizeh zigur guresef oza koftav ane zobgev pev ububarge. Geju gazuh bauto anu rirnavi juzgumiku feksug ciw rape boifezip juv sincusoj jecuzur men ol. Jurrir gappeiw lavguw feig weca cubate nicreuz tinmimin mu uteiga piptut ceajuvow. Uk so fu icmargak zepzobviv zak howovi kapzigmo vas at nevedip johpojhe oga runwi. Kesu gotobpen faras ab roikaita raccek cof fofenuc pez eznep vu caf. Fu nekeih fu low toilefos sedeva nel viptu esozo sip luvwoot mefu tojdur kifze nehhaz lep joc jurujuku."
+  },
+  "apiKey": "d720cfc7914e8287e0246894bb7e66743f3cab88b60ba14002cf9b8207901c9a",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
