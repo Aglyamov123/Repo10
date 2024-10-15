@@ -1,0 +1,26 @@
+{
+  "name": "Lucas Grant",
+  "age": 26,
+  "address": {
+    "street": "Nufom Street",
+    "city": "Gukadi",
+    "state": "SD",
+    "zip": "13842"
+  },
+  "contact": {
+    "phone": "(671) 731-7043",
+    "servicePhone": "800984313"
+  },
+  "birthday": "1991-03-03T03:35:06.486Z",
+  "ip": "244.99.196.160",
+  "foo": "bar",
+  "profile": {
+    "about": "It soluuw hag elu zu afa rikuh zom tuparmu pubkuj lacilig genefte ziwdu gil zoocdu houb kefpolwe. Revtu naevge bib koniku comzirda cohi heazumi va lauluha nu ko buplakcol tarhezbi am finfawac ahlohmof. Saazebec hi pevhawbat pa ha ibiker huhlogsor radubom uta zuel eba bangu pipahajom vedfu.",
+    "bio": "Perefdab tifob hubgis cabbam tiduro az wogizol rej vuoti veg jucbapmi biji cicled effupsat vahjarwo semade. Le rez raugajob hep zotnic cin ku wo fibcepva vosub polte nu orpu. Bavu giizegos huwuto unbeh ga fa metawi bocelwi ri jikut zemopisi wa awevalje resfes ki ne efbo jov. Mucsedtek mapito buj gic kaleljob bel highafzaz nu ud jur kov paw."
+  },
+  "apiKey": "d9d30037f5310e9b38ddc9474f9f8bc0d5fa69a3880687f7e1aa0cf03b7e4894",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
