@@ -1,0 +1,26 @@
+{
+  "name": "Aiden Jefferson",
+  "age": 36,
+  "address": {
+    "street": "Vaemu Drive",
+    "city": "Hoojnet",
+    "state": "MD",
+    "zip": "41662"
+  },
+  "contact": {
+    "phone": "(585) 464-5416",
+    "servicePhone": "800588515"
+  },
+  "birthday": "1967-06-30T06:07:17.923Z",
+  "ip": "150.4.130.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Gaem wibub zoh idkonuw miwadhu joh gasoh abuut el patapeg jilecaf odizubra kucvi alhuv vur sabnu ozuji. Zufto fi etaoj ujule eposa lipezzaj ag paj eji wubasham dopsajum habjeewu iwesejba obfo devpo. Da nev ule boozu furmisle baj he dawado ja agbo mo sal lozva. Nulkub ruco zidiobi wukutu bies ari ro wagvifkis bojadumo cuksu kiilju dahupi howadsu kofif.",
+    "bio": "Dowi bunnoha zuz foz cawekeh fovkoz decvo ni po pulifeso pac wo icreb bubul kawvid il bigfof nera. Purme kowkauho biwravgak mavdimhe sod buaro dusmasvi jum dupiuke gicpulbo tedim et po gu vokomo cojtobe ozavec posi. Iz ibsotas ogaitouso mi cit wo zik guh wipigid vi sembiw asi ritipos wuf huw jokih lotuboje. Fajwas fuzroib wewawug hakefha judlejeda hu res pokho eza vofeze lobus rurgiec fuk ceazwej zebudavot ubi jihzes futni. Te rovibi joez fih ijigag osnanbo ed ta vesran aci idjiti etura gevmaur reile epapivjeb newiceraf gume ohjispo. Howtoh ciovni fivaw vujbani vuvosuf huse vaatesik ubabesa tictaw vekluomu pisan cunen."
+  },
+  "apiKey": "0745e23c68132b8e62009a4a88fd56941e7958a3db3344bbdd5ff363b15231d4",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
