@@ -1,0 +1,26 @@
+{
+  "name": "Delia Rivera",
+  "age": 43,
+  "address": {
+    "street": "Musus Glen",
+    "city": "Zunalo",
+    "state": "MD",
+    "zip": "71224"
+  },
+  "contact": {
+    "phone": "(707) 551-9307",
+    "servicePhone": "800136321"
+  },
+  "birthday": "1998-11-18T04:45:42.397Z",
+  "ip": "88.147.95.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Tan raga ned vembiwlad kaeciv ro rugiv gi sipci kijunat et ki ju bu hib ug iduunuce. Ovteet horibop cis opehubam toabezi decid aravibgiw vugus daw agmiwuz febora kipga runfandic ina dogha pukmuf. Nij lifigno bihcam piez ji ben niv sew mi bu je wezhofet cewa. Lerzigni se do omulli il pitziuwa mu upkusa finla neric niibi rob uma ne mavdemoh ovnaderi gowpan awaatodor. Kafoz jito ot sekoz weboma ot busebipu bef jidbotimi inudamwa va rojed wogolut kusewe. Cagje lup hezbilab faogi faskapkit tuta ruamo tetas pualo sifmovi da ahadi.",
+    "bio": "Visiv pizus fe junku vor puzosof icsiwov pubfumsu zenfucsed ik we geici ijapa zor if uz. Otujebu runove vuccig isief lobewfoj nuzivuba copok pumziju utu ititezpop jukpuca wicekga suzug kid mu ter zebruthu. Kiv tos razcum ada jaz haddoiha osumipu aloca iw jufizir kopruwzaf kohri opolo sat osisaoli hi."
+  },
+  "apiKey": "fc5c9823c74d9a53612c122a984df9bfbd47d3ad92f2f80298943713a929bcfd",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
