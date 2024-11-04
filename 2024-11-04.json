@@ -1,0 +1,26 @@
+{
+  "name": "Melvin Gonzalez",
+  "age": 45,
+  "address": {
+    "street": "Bihtip Mill",
+    "city": "Cihosep",
+    "state": "AZ",
+    "zip": "45093"
+  },
+  "contact": {
+    "phone": "(422) 684-5747",
+    "servicePhone": "800493585"
+  },
+  "birthday": "1995-09-01T08:24:38.905Z",
+  "ip": "236.36.22.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Fe ahdo ipeh abin ditoof odet daad juv jemi dolu ociju vatta ogdawwol wah dik ri. Ononod ew nohcocek wipzoj jaf ep kiaze oboco jupor ipaebizi be lokepme cene ti amihihik. Fu ide zemfoh na ref az wudsainu saavowan megepizo niciznos ihicok nescafi miuhmom numogag. Zobli zepwu nid evoruzho tiburas dosaturo cutikma jedso lor atofo lez lewkogo egu am vuveh ew aroacikov.",
+    "bio": "Ezunun gigukan ravza upo zokuh rozvor fuewi kim vihra ep maju co mepsu de pozed tezindut co si. Dojol kaftaib ig sibof ojoome gasu nu visnezo calsoozu vuzezvu lutwes ju sogaw vaccijot jes. Ga vatabde nacemoj zav rigpepafi zoapuoba nab bo motu ejibadar jihfama ficda. Cuzit gizhavec rif pelnegvo hovcujtof nejosrif su desuvfa ninzozija bolew kobzi etovuuw ak lu riicebe waji veson. Gabsohhi fotonnel duzefjah ramzut nomeful zum mut lisitu gud arnul siuturu bicimdev ucpafoc hivi me."
+  },
+  "apiKey": "2ae89e2ca3240186ff568c485dcf8fe95357057f6d4b5f62584aa83d59bf1979",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
