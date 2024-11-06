@@ -1,0 +1,26 @@
+{
+  "name": "Brandon Norman",
+  "age": 55,
+  "address": {
+    "street": "Matle Parkway",
+    "city": "Tiwuhso",
+    "state": "NH",
+    "zip": "42591"
+  },
+  "contact": {
+    "phone": "(640) 237-7875",
+    "servicePhone": "800692625"
+  },
+  "birthday": "1989-11-08T08:43:08.023Z",
+  "ip": "62.4.193.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Oja win sesejato dafge sefgifsoj kohpi ogwem he ucivo ho ca wonlour sic hujoani zati. Hasoboc juafe dahalif anife tafgowoz ive postek meczuedi zota pab dug buwenuc av teudimav ve. Zecoj cuj la tekba ohipeud pukal at suz aju teh ro koki vofce gikfuf nobic faf.",
+    "bio": "Ume gab tewke ebu riwkap ta rupiko tehwoh piswugaro wi nefo ez dovfuavu boenvu jabaz rew. Ojufupu nu we gira eruke nujinjag iw utko gafeas jolradil ismowsa igkotuc igme boupeuba le idarofkaf enaro. Ole kuej ugunug higga nosreb zizawdid alo jigsidri su on cubfovcup rupe."
+  },
+  "apiKey": "a498cb710a8e4648805c38294595c71c3580fcda3da616c73b76156cb724596b",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
