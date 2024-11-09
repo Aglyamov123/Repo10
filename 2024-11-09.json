@@ -1,0 +1,26 @@
+{
+  "name": "John Schneider",
+  "age": 39,
+  "address": {
+    "street": "Ehaj Avenue",
+    "city": "Bupmuco",
+    "state": "SD",
+    "zip": "19733"
+  },
+  "contact": {
+    "phone": "(722) 407-2809",
+    "servicePhone": "800269649"
+  },
+  "birthday": "2004-11-21T09:00:15.825Z",
+  "ip": "136.50.235.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Sepebe haz ibo senebkal ag aw marzopem vetkamep mopvek kut la jicomut kodjor webli. Dorofu metnuz bagecuk umda hibeslik caunma gumkub luj bek wef wuz gifegla vo pol. Uhroz jutper kegtoz cohfes eluzid fi isisaho gewbibvun wiwmav nuwzuw ceeg bu iduupcat jom kirnijom ojafintib. Riv ib apakat iktid gefcose domdezup hur julak kija hom veico rozo cakfuru sicwaj pu laaguri.",
+    "bio": "Soak mefu mi norsid fidpof hotutah lamifna rewizce wum dic vednasal vuzuz nenazfu duga wajguwam. Ninu sepoh kemope ilu duhe lil avoig luvwi cogdevgec uf hubaz noude pejies. Duna mes za ituba vummivor ara ruhof dot hubjuhi zuuk um hum. Utu kew zejwo jijefuke og da ulurukmi koh gismupti vu guwob ve. Ajfeive jufrauja gelobel zec kok ucatirok owefakifa bizuvok pabkap paj icezlep jahaw la mamgij foon kafuti ofidatdit suruwu. Vabo ful wowbaw ruhas lumruv dibbewiz mip papefcaj acuvec ejapaj cow posnag vekbun."
+  },
+  "apiKey": "f7d7c0463c97c4cb90b35a1fb6c5ec75243d6d90ed30cf7101949b75cfa61b89",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
