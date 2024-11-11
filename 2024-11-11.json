@@ -1,0 +1,26 @@
+{
+  "name": "James Reese",
+  "age": 42,
+  "address": {
+    "street": "Ugco Circle",
+    "city": "Fewpaputi",
+    "state": "CA",
+    "zip": "54221"
+  },
+  "contact": {
+    "phone": "(650) 338-1617",
+    "servicePhone": "800186868"
+  },
+  "birthday": "1974-05-22T03:24:50.412Z",
+  "ip": "245.201.170.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Ser okeme nefpon leewe kiw bosu duckuktap ime ci ca sebuho co guhrerbi. Ronnog nuvkido katadip uwobamis hif ranpo duborosu ireso wopoka zopok mabhuna dulen az dosiw ni cuc. Rarjo wacfev uhihutreh lasuleb dipa geltef denlac sabpun camvope deiv ne bedjeup icepac kiznavov jowosrun. Me nu luganra nebutoha welunun ga wevi elamuszib puzuir bolo iwugu cugabi gijawcir fir tumoese uhezi faso nop. Gekcoon giw bodmal ceva fapagu movirinub cos jagoti haahca tazpe zahi jogzeh adi ujitorzu hu kouwa.",
+    "bio": "Go lujaboje hahsekuw zoszefe ca olinueze akuzegaz kosi gadaw vuotcaz zava zecmerram fep nunjo meifkut. Zoose lutuzbav suce ciri socferpom racgokjo lit zamo caelze cekedumic asupaep ogewov. Vun faazi kos pom ehubakut ci donofdu manekco lajeba ec mejhuh uji kehzija awoawuiwa lavgaplat. Goubeh vu niefte jidgebi tup farserne hibni nic bu caddas bo mi azudil rusfesudu."
+  },
+  "apiKey": "c9282cfb952359cba22b991446185713c308c8437609473ef6e7b887d6145299",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
