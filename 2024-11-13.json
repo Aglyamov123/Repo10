@@ -1,0 +1,26 @@
+{
+  "name": "Mabel Hubbard",
+  "age": 52,
+  "address": {
+    "street": "Jiwrub Avenue",
+    "city": "Ikikeftak",
+    "state": "WV",
+    "zip": "00420"
+  },
+  "contact": {
+    "phone": "(840) 608-5358",
+    "servicePhone": "800186176"
+  },
+  "birthday": "1988-04-01T08:09:34.759Z",
+  "ip": "224.172.59.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Cegownu afdewkoh uvokizup jo korlug len femev ar ofo hofatu su ciulo hi let zufrotwu do. Rorlow zunbeod huhute beizdok zecisup cabehoh zotomu ki ukjikam ohhini ud muzco ohnarko. Perof riz golda cepajpe loblu viawwe ivhocav zu weivovog ihe tepurcit dop.",
+    "bio": "Ika kicir di cu sub rosu puh judiw puhsaf sit zechuog dimermo vugew kicavtu. Dafi woheheik tupkiz imo ive fasafic kef ij tunez nablob ijijahij uzizer ja had. Oce dob doz ona oclalti avgegpib udru wod nauw cular luslec sabmomi ferufok foccev ned leto."
+  },
+  "apiKey": "b387bf2a531d2cbbc3b0db7c074d1d86d76fd03712c79a21995894d141e70da0",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
