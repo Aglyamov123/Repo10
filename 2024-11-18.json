@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Cortez",
+  "age": 18,
+  "address": {
+    "street": "Mojjo Pike",
+    "city": "Emasuva",
+    "state": "AZ",
+    "zip": "27956"
+  },
+  "contact": {
+    "phone": "(235) 436-2665",
+    "servicePhone": "800627887"
+  },
+  "birthday": "1960-03-17T04:06:38.350Z",
+  "ip": "192.201.83.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Poswadar ti mecboero zok eb olvu kihhalu cizrol foufvak ma egoaz diev sojti dainuc ziin kopelak niwpi bohocad. Naziti ici opfogi lomevapo bero eho zugok cubhehhel bo jevomga bazku devuh cekotref ti jugeige. Ewedefoz jopa ehovi howkan lawju fabi torici tor gejtu isjek joruf lujut tofjo. Mirodmaz vaegfe duobo etuget nuse wobumri sunem jajuk he ohhiup ulusi pa hubzu.",
+    "bio": "Ve acgiz petukja ki aja bu alekojku azigge zibwo je sugu iwcegen zukpoz epdif. Lusbunuv se lotogi osufun zi kova ov odonumve di ri utmoh dongup emosuico meh. Leju bibemre hu mafimo fe kulsij ci fav jalci weal jas vadraav wujve eke ikmoror tos. Dehdocepu ve no puni fuwic za utiistof tulaol pis tevu vofewa wovrapmig pujilud kacdemco gu botigfof. Sepkejed nitmolsu vuhjermu hopek gopose ezhunuc libsem leh pinipo cew kijhe fonit pikaw gamke ohecu utute ji."
+  },
+  "apiKey": "9e3b0bcf20f8dec9d905f4dcacc72379f861b703afddecb61034b5405565b2bb",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
