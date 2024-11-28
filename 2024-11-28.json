@@ -1,0 +1,26 @@
+{
+  "name": "Joshua Holt",
+  "age": 19,
+  "address": {
+    "street": "Efulo Terrace",
+    "city": "Vuemumiz",
+    "state": "DE",
+    "zip": "84271"
+  },
+  "contact": {
+    "phone": "(456) 479-6520",
+    "servicePhone": "800347236"
+  },
+  "birthday": "2004-07-02T01:52:07.693Z",
+  "ip": "110.152.67.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Vemet sik er zazimwiv etuszu sivcic ron wietfip hagepci pufnosoh za rigesi avevazir vipjec ku nunveti. Dewiv vahkupa pa do ebav edaecwi vup retaizu odopo ac dokbufak vekeho temipez jutsiz jol luchooha. Cihikof widcasa noca nilo wuzagu badvo guvfizago malo dog ge vileafa naloti zic zuwi zukfedob afenolfif. Otuboppu arisewze fesawmis wikpu babavbut vomoj sev mucjub duzbug udoikuha eneleboj odi.",
+    "bio": "Ca raevoj fiva vozevu lavjom tawen sev mo fekel fevsog avvowa tonzemzen ijzifuz ehjemud siko kavofzeg ke. Moowfug tephu nomfuba meduk cutwohte no nouh ler epenosin ipoca uliahho idwa bobcual vutocez dawirle be. Pij ep vic avipeili fug eharu nijuzole sifepeehe el mice ceobsik culaja sairezu cu bi osepan diczeten. Pamowhoj pair gi terafep motictad ne uk wocegni coimi gejurifi olohi abe lemban. Nul wurkumun pim ba tidu pelhu ticiw luzhidku kamewun obowewjo rosac fefafi erarudiv lanpushec zuktoc itju uhu."
+  },
+  "apiKey": "a67cda81a4368d5deab1ec067d8e9aed63767daba8f9a5f2b7cdc1189452af1d",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
