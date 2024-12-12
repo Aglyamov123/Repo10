@@ -1,0 +1,26 @@
+{
+  "name": "Charlotte Wheeler",
+  "age": 43,
+  "address": {
+    "street": "Pepaw Extension",
+    "city": "Rubtadub",
+    "state": "ID",
+    "zip": "45649"
+  },
+  "contact": {
+    "phone": "(431) 318-2721",
+    "servicePhone": "800522218"
+  },
+  "birthday": "1968-02-28T09:17:07.182Z",
+  "ip": "23.114.30.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Ekaves ragok pumda otdu aradoj ropu ucinewam zalente un izfigon cuzu unicako. Biza ha gez uci gociguv tad fosmif uka huk bonki ziugahim rib izamoh ro gehjumoba gu ped re. Etaodi sut pucpuco zaad helgivlo puzecte jor ecsem ofzef cega rav age cuez. Fuhpovob sa dom tobcuj ihusaghef je son iwueka hitbu dig jajce zajuloar wawiad.",
+    "bio": "Jungaabe baher nif emrah we gecrauje zo mej oh pab uz fuzej lajmuva. Suus evica fiot le taziupu fuse nigek setav on ilsi ek rocucime bepinkic izruh. Ze vurud ga nomamlom sesus gokteshi enuma viciga wimu ig wesehna fi ohnejiv ku fepnow kofrek."
+  },
+  "apiKey": "fb5a0039c482d42af1af73df48e38e210d20dea4b533d9a47d4107e6e712b4cd",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
