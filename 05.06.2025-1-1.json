@@ -1,0 +1,25 @@
+{
+    "name": "Juan Evans",
+    "age": 55,
+    "address": {
+        "street": "Sandoval Shoal",
+        "city": "West Curtis",
+        "state": "Maine",
+        "zip": "40280"
+    },
+    "contact": {
+        "phone": "+1-792-796-0845x4855",
+        "servicePhone": "800644367"
+    },
+    "birthday": "1970-07-10",
+    "ip": "202.56.50.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Address when nothing culture impact. Score down tonight table population. Win hit worry reduce response thousand company.\nAhead eight prove. Or live develop cut.",
+        "bio": "Travel affect who before book five message. Man opportunity around data tonight happen. Whose time not what street."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
