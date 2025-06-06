@@ -1,0 +1,25 @@
+{
+    "name": "James Doyle",
+    "age": 116,
+    "address": {
+        "street": "Jessica Via",
+        "city": "Petersonchester",
+        "state": "Arizona",
+        "zip": "13790"
+    },
+    "contact": {
+        "phone": "001-858-776-8537x663",
+        "servicePhone": "800606755"
+    },
+    "birthday": "1909-30-11",
+    "ip": "117.202.207.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Mr kind loss reason. Across take machine social discussion usually eight. Issue check couple anyone rise those night.\nRate fact us matter control.",
+        "bio": "Their decision full game worker behavior. Show six low interest interest long. Present apply describe whole."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
