@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Ross",
+    "age": 58,
+    "address": {
+        "street": "Dunn Valleys",
+        "city": "South Gregory",
+        "state": "Delaware",
+        "zip": "21448"
+    },
+    "contact": {
+        "phone": "+1-478-766-7090x891",
+        "servicePhone": "800474861"
+    },
+    "birthday": "1967-27-12",
+    "ip": "184.21.18.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Research collection either only fast. Building upon environment energy choose reason two.\nYoung station through fall instead science. Bill move nearly available day these.",
+        "bio": "Rate foreign hour property subject respond. Subject state drop always happy various next. Strategy son prevent line important."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
